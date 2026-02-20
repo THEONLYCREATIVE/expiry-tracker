@@ -1,0 +1,20 @@
+{
+  "name": "Expiry Tracker",
+  "short_name": "Expiry",
+  "description": "Medicine expiry date tracker with GS1 barcode support",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00bcd4",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%2300bcd4'/><text x='256' y='340' font-size='280' text-anchor='middle' fill='white'>💊</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["medical", "utilities", "productivity"],
+  "lang": "en"
+}
